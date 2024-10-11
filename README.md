@@ -1,6 +1,5 @@
 <p align="center"><img src="https://octodex.github.com/images/inspectocat.jpg" align="center" width="175"></p>
 <h1 align="center">git-stalk-cli</h1>
-
 <p align="center">
 <a href="https://pypi.org/project/git-stalk/"><img src="https://img.shields.io/pypi/v/git-stalk.svg?style=for-the-badge" align="center"></a>
 <a href="https://pypi.org/project/git-stalk/"><img src="https://img.shields.io/pypi/pyversions/git-stalk.svg?style=for-the-badge" align="center"></a>
